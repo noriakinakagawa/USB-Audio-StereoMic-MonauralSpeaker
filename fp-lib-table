@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name AP7365-33WG-7)(type KiCad)(uri ${KIPRJMOD}/AP7365-33WG-7/AP7365-33WG-7.pretty)(options "")(descr ""))
+  (lib (name CSTNE12M0G550000R0)(type KiCad)(uri ${KIPRJMOD}/CSTNE12M0G550000R0/CSTNE12M0G550000R0.pretty)(options "")(descr ""))
+  (lib (name HSP062-2M6)(type KiCad)(uri ${KIPRJMOD}/HSP062-2M6/HSP062-2M6.pretty)(options "")(descr ""))
+  (lib (name PCM2906CDBR)(type KiCad)(uri ${KIPRJMOD}/PCM2906CDBR/PCM2906CDBR.pretty)(options "")(descr ""))
+  (lib (name TPA2006D1DRBR)(type KiCad)(uri ${KIPRJMOD}/TPA2006D1DRBR)(options "")(descr ""))
+  (lib (name UP2-AH-1-TH)(type KiCad)(uri ${KIPRJMOD}/UP2-AH-1-TH/UP2-AH-1-TH.pretty)(options "")(descr ""))
+  (lib (name SolderJumper)(type KiCad)(uri ${KIPRJMOD}/SolderJumper.pretty)(options "")(descr ""))
+  (lib (name SJ-2523-SMT-TR)(type KiCad)(uri ${KIPRJMOD}/SJ-2523-SMT-TR)(options "")(descr ""))
+  (lib (name SJ2-3593D-SMT-TR)(type KiCad)(uri ${KIPRJMOD}/SJ2-3593D-SMT-TR)(options "")(descr ""))
+)
