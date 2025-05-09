@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name PCM2906CDBR)(type Legacy)(uri ${KIPRJMOD}/PCM2906CDBR/PCM2906CDBR.lib)(options "")(descr ""))
-  (lib (name TPA2006D1DRBR)(type Legacy)(uri ${KIPRJMOD}/TPA2006D1DRBR/TPA2006D1DRBR.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "PCM2906CDBR")(type "Legacy")(uri "${KIPRJMOD}/PCM2906CDBR/PCM2906CDBR.lib")(options "")(descr ""))
+  (lib (name "TPA2006D1DRBR")(type "Legacy")(uri "${KIPRJMOD}/TPA2006D1DRBR/TPA2006D1DRBR.lib")(options "")(descr ""))
+  (lib (name "USB-Audio-StereoMic&MonauralSpeaker-rescue")(type "KiCad")(uri "${KIPRJMOD}/USB-Audio-StereoMic&MonauralSpeaker-rescue.kicad_sym")(options "")(descr ""))
 )
